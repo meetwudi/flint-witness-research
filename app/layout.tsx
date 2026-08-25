@@ -1,23 +1,15 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-});
-
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-});
-
 export const metadata: Metadata = {
-  title: 'Incuvate v. Penumbra | Preliminary Expert Research',
-  description: 'Independent preliminary research based on public information for Incuvate v. Penumbra.',
+  metadataBase: new URL('https://flint-witness-research.vercel.app'),
+  title: 'Incuvate v. Penumbra | Flint Witness Research',
+  description: 'Post-filing technical issue mapping and preliminary expert research for Incuvate v. Penumbra.',
+  alternates: { canonical: '/incuvate-v-penumbra' },
   openGraph: {
-    title: 'Incuvate v. Penumbra | Preliminary Expert Research',
-    description: 'A matter-specific expert map for pressure-based clot detection and aspiration thrombectomy.',
+    title: 'Incuvate v. Penumbra | Flint Witness Research',
+    description: 'A post-filing technical issue map and researched slate of ten potential experts.',
+    url: '/incuvate-v-penumbra',
     images: ['/incuvate-penumbra-og.png'],
   },
 };
@@ -29,11 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
