@@ -8,6 +8,7 @@ This repository contains the client-facing research packet for:
 - **Docket:** No. 4:26-cv-08658 (N.D. Cal.)
 - **Personalized page:** `https://flint-witness-research.vercel.app/incuvate-v-penumbra`
 - **Positioning:** post-filing research, before counsel completes formal expert identification and retention
+- **Service conversation:** `https://tidycal.com/meetwudi/15-minute-meeting`
 
 The page includes a verified matter summary, linked asserted patents, a technical
 issue map, ten ranked potential experts, source evidence, limitations, and editable
@@ -29,4 +30,5 @@ npm run dev
 npm run build
 ```
 
-The application is a statically rendered Next.js site deployed through Vercel.
+The application is a statically rendered Next.js site deployed through Vercel from
+the `main` branch of this repository.
