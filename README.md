@@ -2,8 +2,8 @@
 
 ## Analytics
 
-The site uses Google Analytics 4 through the standard Google tag in
-`app/layout.tsx`.
+The site uses Google Analytics 4 through Next.js's Google Analytics component
+in `app/layout.tsx`.
 
 - Property: `Flint Witness Research`
 - Web stream: `Flint Witness Research`
