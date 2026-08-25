@@ -17,6 +17,10 @@ a { color:inherit; }
 h1 { font-family:Georgia, serif; font-size:clamp(58px, 9.4vw, 132px); line-height:.88; letter-spacing:-.065em; margin:35px 0 28px; max-width:1050px; }
 .dek { font-family:Georgia, serif; font-size:clamp(22px, 3vw, 39px); line-height:1.17; max-width:920px; margin:0; }
 .label { display:inline-block; background:var(--ink); color:white; padding:12px 16px; font-size:12px; letter-spacing:.04em; margin-top:34px; }
+.hero-actions { display:flex; flex-wrap:wrap; align-items:stretch; gap:10px; margin-top:34px; }
+.hero-actions .label { margin:0; }
+.pdf-link { display:flex; align-items:center; border:1px solid var(--ink); padding:11px 16px; font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; text-decoration:none; }
+.pdf-link:hover { background:var(--rust); color:white; border-color:var(--rust); }
 .value-strip { display:grid; grid-template-columns:280px 1fr; gap:32px; align-items:start; margin-top:28px; padding:24px 0; border-top:1px solid #17231f66; border-bottom:1px solid #17231f66; max-width:940px; }
 .value-strip strong { font-family:Georgia,serif; font-size:22px; line-height:1.2; }
 .value-strip p { margin:0; font-size:15px; line-height:1.6; color:#52615a; }

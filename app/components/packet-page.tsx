@@ -37,14 +37,16 @@ export type PacketData = {
   sources: [string, string, string][];
   limitations: [string, string];
   outreachSubject: string;
+  pdfUrl?: string;
 };
 
 function expertMailto(expert: PacketExpert, packet: PacketData) {
+  const fit = expert.fit.trim().replace(/[.!?]+$/, "");
   const body = `${expert.salutation},
 
 I am counsel for [party] in ${packet.fullCaption}, ${packet.facts.find(([label]) => label === "Docket")?.[1]}.
 
-I am reaching out regarding a potential expert consultation. Your public work in ${expert.fit.charAt(0).toLowerCase() + expert.fit.slice(1)} appears relevant to technical questions in the matter. Would you be open to a brief preliminary call, subject to an initial conflicts check?
+I am reaching out regarding a potential expert consultation. Your publicly documented experience with ${fit} appears relevant to technical questions in the matter. Would you be open to a brief preliminary call, subject to an initial conflicts check?
 
 No engagement is created by this inquiry. Please do not send confidential information at this stage.
 
@@ -58,7 +60,7 @@ Best,
 export function PacketPage({ packet }: { packet: PacketData }) {
   return <main>
     <nav className="nav shell"><a className="brand" href="#top">FLINT<span>·WITNESS</span></a><div className="navlinks"><a href="#matter">Matter</a><a href="#claims">Technical context</a><a href="#issues">Technical issues</a><a href="#experts">Potential experts</a><a href="#sources">Sources</a></div></nav>
-    <section id="top" className="hero shell"><div className="eyebrow"><span/> Flint Witness Research · Post-filing expert research</div><h1>{packet.title}</h1><p className="dek">{packet.deck}</p><p className="label">Independent preliminary research based on public information.</p><div className="value-strip"><strong>Prepared for the post-filing window</strong><p>Once the pleading identifies the technical dispute—and before counsel completes formal expert identification and retention—this packet turns the public record into an issue map, candidate slate and diligence starting point.</p></div><div className="facts">{packet.facts.map(([label,value])=><div key={label}><small>{label}</small><strong>{value}</strong></div>)}</div></section>
+    <section id="top" className="hero shell"><div className="eyebrow"><span/> Flint Witness Research · Post-filing expert research</div><h1>{packet.title}</h1><p className="dek">{packet.deck}</p><div className="hero-actions"><p className="label">Independent preliminary research based on public information.</p>{packet.pdfUrl&&<a className="pdf-link" href={packet.pdfUrl} target="_blank" rel="noreferrer">Open PDF packet ↗</a>}</div><div className="value-strip"><strong>Prepared for the post-filing window</strong><p>Once the pleading identifies the technical dispute—and before counsel completes formal expert identification and retention—this packet turns the public record into an issue map, candidate slate and diligence starting point.</p></div><div className="facts">{packet.facts.map(([label,value])=><div key={label}><small>{label}</small><strong>{value}</strong></div>)}</div></section>
 
     <section id="matter" className="brief shell"><div className="section-no">01</div><div><p className="kicker">Preliminary assessment</p><h2>{packet.assessmentTitle}</h2><p className="lead">{packet.assessmentBody}</p><div className="callout"><b>Anticipated expert disciplines</b><p>{packet.disciplines}</p></div><div className="stakes">{packet.stakes.map(x=><div key={x.label}><small>{x.label}</small><strong>{x.value}</strong><p>{x.detail}</p></div>)}</div></div></section>
 

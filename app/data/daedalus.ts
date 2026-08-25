@@ -5,6 +5,7 @@ export const daedalusPacket: PacketData = {
   fullCaption: "Daedalus Cloud LLC v. Oracle Corporation et al.",
   deck: "Potential expert disciplines and candidates for a four-patent dispute concerning vector-processor storage offload, erasure encoding and latency management in Oracle Cloud Infrastructure.",
   prepared: "August 25, 2026",
+  pdfUrl: "/packets/daedalus-cloud-v-oracle-expert-research.pdf",
   facts: [["Filed","August 21, 2026"],["Forum","E.D. Virginia"],["Docket","1:26-cv-02709"],["Matter","Patent infringement"]],
   assessmentTitle: "The central technical questions concern whether OCI storage services perform the claimed coding and storage-control work on an alleged vector processor.",
   assessmentBody: "The public complaint synopsis describes a dispute over Oracle Cloud Infrastructure components that allegedly use NVIDIA data-processing units to perform storage transforms, erasure encoding and storage-device instructions while hiding latency. The filed complaint and exhibits must control the final allegation mapping.",
