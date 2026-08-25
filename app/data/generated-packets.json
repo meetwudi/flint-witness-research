@@ -44,7 +44,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Given the DTSA cause of action, emergency-relief posture, Whynot's public CMC role, and Beam's disclosed modalities, the likely technical proof will concern whether identified nonpublic process-development or CMC information is secret, valuable, attributable to Beam, technically distinct from public/domain knowledge, and capable of conferring a development or manufacturing head start. The complaint is needed to confirm or narrow this map.",
@@ -390,7 +390,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "A public complaint synopsis identifies Oracle Cloud Infrastructure, NVIDIA BlueField DPUs, vector-processor storage offload, erasure encoding, and storage-latency hiding as the alleged technical center of the dispute.",
@@ -820,7 +820,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Apple iOS/iPadOS Spotlight system-level search and cross-application linking under U.S. Patent No. 10,635,293.",
@@ -1074,14 +1074,14 @@
       },
       {
         "rank": 10,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For VE Opening LLC v. Apple Inc., the fit is specifically Apple Spotlight indexing, system-level search, deep links, cross-application result presentation, and the boundary between OS search infrastructure and app-provided metadata.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -1166,7 +1166,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Facebook and Messenger multimedia messaging, ordered mixed-media composition, and media-rich polling under three messaging-system patents.",
@@ -1415,14 +1415,14 @@
       },
       {
         "rank": 10,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For Trenda Innovations, Inc. v. Meta Platforms, Inc., the fit is specifically Facebook and Messenger composition of ordered mixed-media messages, media-rich polls, synchronization, and user-facing interaction flows.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -1502,7 +1502,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Induction-motor generator power supplies, AC-to-DC conversion, energy storage, and closed-loop throttle control under U.S. Patent No. 7,330,016.",
@@ -1598,7 +1598,7 @@
         "fit": "The strongest direct fit for induction-machine identity, modeling, performance, and hybrid/renewable generator questions. His public profile covers electric machines and drives, traction motors for hybrid and electric vehicles, renewable energy, and storage; his professional record includes chairing the IEEE Power Engineering Society Induction Machinery Sub-Committee.",
         "work": "Concordia identifies his research in modeling, analysis, design, and control of electrical machines and electric motor drives, including hybrid-electric traction and renewable energy. His teaching includes Energy Conversion, Electric Machines & Drives, Advanced Machines & Drives, Power Electronics, and Electric Machine Design.",
         "litigation": "No candidate-specific expert report, declaration, deposition, or trial-testimony source was located in the public sources reviewed.",
-        "weakness": "His public profile emphasizes research and teaching rather than Caterpillar products or generator-set field service. Canadian location may add scheduling and cross-border logistics. Industry relationships through the Hydro-Qu\u00e9bec chair require conflict review.",
+        "weakness": "His public profile emphasizes research and teaching rather than Caterpillar products or generator-set field service. Canadian location may add scheduling and cross-border logistics. Industry relationships through the Hydro-Québec chair require conflict review.",
         "links": [
           [
             "Source 1",
@@ -1932,7 +1932,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Ten asserted LED structure, packaging, and operation patents applied to Partron camera-flash LED modules incorporated in Samsung phones.",
@@ -2254,7 +2254,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Hierarchical sensor groups and adaptive classifiers for detecting a mobile device's context, alleged against Audi and Toyota vehicle systems.",
@@ -2592,7 +2592,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Inbound call control and spam-call filtering using an on-premises call-control unit, external server intelligence, and user-configurable blocklists.",
@@ -2799,7 +2799,7 @@
         "emailSource": "https://www.cis.fiu.edu/faculty-staff/selcuk-uluagac/",
         "role": "Eminent Scholar Chaired Professor, Florida International University",
         "fit": "Cybersecurity and privacy of IoT, cyber-physical systems, mobile/wireless systems, malware, and digital forensics. For Data Fence LLC v. Numbo s.r.o., the fit is specifically on-premises call-control units, external reputation intelligence, blocklists, signaling decisions, and spam-call filtering.",
-        "work": "Leads FIU\u2019s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
+        "work": "Leads FIU’s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for A. Selcuk Uluagac was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Applied security breadth is stronger than direct PBX, SIP-proxy, or voice-policy-engine specialization. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
@@ -2924,7 +2924,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Wi-Fi routers and gateways implementing LDPC error correction, multiple wireless-access management, and automated hotspot registration under four former BlackBerry patents.",
@@ -3254,7 +3254,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Ruckus Wi-Fi access points, adaptive bandwidth, hybrid beamforming, MU-MIMO/legacy-device coexistence, and dynamic channel selection under four patents.",
@@ -3584,7 +3584,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Heavy-duty conveyor-belt engineering, including carcass construction, rubber compounds, splicing, diagnostics, monitoring, and belt-system performance for mining and bulk-material handling.",
@@ -3880,7 +3880,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Automotive digital-marketing data, reporting and workflow systems, including a written information security program and the product/AI/engineering systems used to run dealership marketing operations.",
@@ -4176,7 +4176,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Structural and geotechnical engineering of precast modular retaining-wall blocks, including gravity, mechanically stabilized earth, and hybrid wall configurations and geogrid connections.",
@@ -4472,7 +4472,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Aerospace manufacturing operations and acquisition-company industrial know-how involving VAERO, VECCO Aerospace Group and a portfolio that publicly includes aerospace and titanium/superalloy manufacturing facilities.",
@@ -4768,7 +4768,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Proprietary activation of allogeneic natural killer cells into supercharged NK cells for oncology immunotherapy, including cytotoxicity, tumor-microenvironment persistence, and translation of preclinical results toward clinical trials.",
@@ -5068,7 +5068,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "The complaint concerns competing automotive lease-buyout, title, and registration workflows. Public materials describe DLRdmv's platform as supporting state-specific fee calculation, compliant forms, electronic submissions, dealer-management-system integrations, title-brand checks, and related transaction data. The likely technical proof will turn on the precise information claimed as secret, how each platform implements those workflows, and whether access logs, repositories, integrations, and development history show use or independent development.",
@@ -5430,7 +5430,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Motion/orientation-activated firearm laser sights using sensors and control logic to distinguish aiming from high/low-ready positions, with auto-off, a 520 nm green laser, rechargeable power, rail mounting, and impact-resistant housing.",
@@ -5726,7 +5726,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Adaptive-bitrate streaming and streamlet-based media delivery, including client-side monitoring of network conditions, selecting different-quality segments, and staging segments for smooth playback.",
@@ -5899,14 +5899,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For DISH Technologies L.L.C. et al. v. Blaze Media, LLC, the fit is specifically adaptive-bitrate streaming, streamlets, client-side network monitoring, quality selection, buffering, and smooth playback.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -5995,7 +5995,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For DISH Technologies L.L.C. et al. v. Blaze Media, LLC, the fit is specifically adaptive-bitrate streaming, streamlets, client-side network monitoring, quality selection, buffering, and smooth playback.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -6082,7 +6082,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Adaptive-bitrate streaming and streamlet-based media delivery, including client-side monitoring of network conditions, selecting different-quality segments, and staging segments for smooth playback.",
@@ -6255,14 +6255,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For DISH Technologies L.L.C. et al. v. Daily Burn, Inc., the fit is specifically adaptive-bitrate streaming, streamlets, client-side network monitoring, quality selection, buffering, and smooth playback.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -6351,7 +6351,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For DISH Technologies L.L.C. et al. v. Daily Burn, Inc., the fit is specifically adaptive-bitrate streaming, streamlets, client-side network monitoring, quality selection, buffering, and smooth playback.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -6438,7 +6438,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 network-resource optimization through automated negotiation and economic or game-theoretic mechanisms, alleged against Advanced Digital Broadcast SA's unspecified products; product models and the Exhibit 2 mapping were unavailable.",
@@ -6520,7 +6520,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -6748,7 +6748,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -6836,7 +6836,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 network-resource allocation and interference management using automated negotiation, auctions, synthetic currency, and game theory, alleged against Airspan's unnamed network products; the Exhibit 2 product mapping was unavailable.",
@@ -6918,7 +6918,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -7146,7 +7146,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -7234,7 +7234,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 multifactorial network optimization, including game-theoretic negotiation and directional-antenna resource allocation, alleged against ARBOR Technology's unspecified products; the Exhibit 2 mapping was unavailable.",
@@ -7316,7 +7316,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -7544,7 +7544,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -7632,7 +7632,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 economic and game-theoretic communications-network resource allocation, alleged against Baicells Technologies North America's unspecified wireless-network products; the Exhibit 2 mapping was unavailable.",
@@ -7714,7 +7714,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -7942,7 +7942,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -8030,7 +8030,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 market-based allocation of network resources using agent hierarchy, synthetic economic value, auctions, and game theory, alleged against GIGA-BYTE's unspecified products; the Exhibit 2 mapping was unavailable.",
@@ -8112,7 +8112,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -8340,7 +8340,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -8428,7 +8428,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 game-theoretic and synthetic-economy management of ad hoc wireless-network resources, alleged against HMS Industrial Networks' unspecified networking products; the Exhibit 2 mapping was unavailable.",
@@ -8510,7 +8510,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -8738,7 +8738,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -8826,7 +8826,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 decentralized network-resource management through auctions, virtual currency, cooperative agents, and game-theoretic antenna control, alleged against Sahara's unspecified products; the Exhibit 2 mapping was unavailable.",
@@ -8908,7 +8908,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -9136,7 +9136,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -9224,7 +9224,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 9,794,797 economic and game-theoretic optimization of wireless-network resources, including automated negotiation and directional antenna states, alleged against TSC Auto ID's unspecified products; the Exhibit 2 mapping was unavailable.",
@@ -9306,7 +9306,7 @@
         "emailSource": "https://web.stanford.edu/~rjohari/",
         "role": "Professor of Management Science and Engineering and, by courtesy, of Electrical Engineering and Computer Science, Stanford University",
         "fit": "Exceptional fit for the patent's core game-theoretic network-resource question. His work directly addresses efficiency loss in network resource-allocation games, congestion pricing, network formation, traffic engineering, and mechanism design.",
-        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004\u2014squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
+        "work": "Coauthor of 'Efficiency loss in a network resource allocation game,' Mathematics of Operations Research 29(3), 2004—squarely within the patent's priority-period technical vocabulary. Published on communication requirements of VCG-like mechanisms, routing and peering, congestion games, and game-theoretic resource allocation. Stanford identifies him as a professor across management science, electrical engineering, and computer science.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. This is not evidence of no litigation experience.",
         "weakness": "His most direct fit is the economic and algorithmic meaning of network games, not RF antenna-array design, beam-pattern measurement, or product teardown. His current research also extends beyond communications networks into online platforms.",
         "links": [
@@ -9534,7 +9534,7 @@
         "fit": "The bench's strongest complementary physical-layer and multiuser-wireless candidate. His work on wireless communication, proportional-fair scheduling, information theory, path diversity, throughput, and multiuser systems can test whether claimed economic language maps to real radio behavior.",
         "work": "Coauthor of the widely used text 'Fundamentals of Wireless Communication.' Inventor of the proportional-fair scheduling algorithm used in cellular systems, according to Stanford's profile. Named inventor on patents involving throughput, multiple-mobile-station transmission, path diversity, and bit-rate services.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record was located in the bounded search. Searches were disambiguated from other professionals named David Tse. This is not evidence of no litigation experience.",
-        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment\u2014not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
+        "weakness": "His best fit is wireless-system operation, multiuser resource allocation, and technical apportionment—not auction theory or synthetic economic value. His current research also spans areas outside wireless networking, so the specific engagement scope would need careful definition.",
         "links": [
           [
             "Source 1",
@@ -9622,7 +9622,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Three patents concerning encrypted control data and machine-readable information embedded in broadcast signals, subscriber-side decryption, and personalized or interactive media processing.",
@@ -9795,14 +9795,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Amagi Media Labs Limited, the fit is specifically encrypted control data embedded in broadcast signals, subscriber-side decryption, playout automation, and personalized or interactive media processing.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -9891,7 +9891,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Amagi Media Labs Limited, the fit is specifically encrypted control data embedded in broadcast signals, subscriber-side decryption, playout automation, and personalized or interactive media processing.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -9978,7 +9978,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Personalized mass-media generation by combining received broadcast programming with user-specific computer processing under U.S. Patent No. 8,559,635, applied to a video-game publisher's products.",
@@ -10156,14 +10156,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Gameloft SE, the fit is specifically personalized mass-media generation combining received programming with user-specific computer processing in game and media products.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -10252,7 +10252,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Gameloft SE, the fit is specifically personalized mass-media generation combining received programming with user-specific computer processing in game and media products.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -10344,7 +10344,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Three patents on embedding control data in media transmissions to enable controlled or personalized receiver functionality, asserted against a content-delivery and cloud-infrastructure provider.",
@@ -10517,14 +10517,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. G-Core Labs S.A., the fit is specifically control data embedded in media transmissions, content-delivery infrastructure, receiver functionality, and personalized processing.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -10613,7 +10613,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. G-Core Labs S.A., the fit is specifically control data embedded in media transmissions, content-delivery infrastructure, receiver functionality, and personalized processing.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -10700,7 +10700,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Two patents on control signals embedded in broadcast or data transmissions to automate and personalize receiver-side content, asserted against a low-latency streaming technology company.",
@@ -10873,14 +10873,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. OvenMedia Labs Inc., the fit is specifically low-latency streaming, embedded control signals, receiver-side automation, and personalized media delivery.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -10969,7 +10969,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. OvenMedia Labs Inc., the fit is specifically low-latency streaming, embedded control signals, receiver-side automation, and personalized media delivery.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -11056,7 +11056,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Three patents concerning integrated broadcast-signal and user-specific computer processing, asserted against networked video-camera products and services.",
@@ -11229,14 +11229,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Reolink Digital Technology Co., Ltd., the fit is specifically network-camera media streams, embedded metadata/control information, receiver-side processing, and integrated user-specific computer functions.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -11325,7 +11325,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Reolink Digital Technology Co., Ltd., the fit is specifically network-camera media streams, embedded metadata/control information, receiver-side processing, and integrated user-specific computer functions.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -11412,7 +11412,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Five asserted patents principally concerning signal processing and personalized interactive media, with complex reexamination histories and one anomalous patent-family issue requiring claim-by-claim diligence.",
@@ -11585,14 +11585,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Sephora SA, the fit is specifically signal processing, personalized interactive media, asserted-family histories, and the relationship between retail media workflows and claimed receiver-side processing.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -11681,7 +11681,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Sephora SA, the fit is specifically signal processing, personalized interactive media, asserted-family histories, and the relationship between retail media workflows and claimed receiver-side processing.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -11768,7 +11768,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Four patents on integrating electronic programming, embedded control signals, and receiver-side processing to generate user-specific content, asserted against advertising-technology products.",
@@ -11941,14 +11941,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Smart Advertising Technologies Limited, the fit is specifically electronic programming, embedded control signals, advertising decisioning, receiver-side processing, and user-specific content generation.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -12037,7 +12037,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Smart Advertising Technologies Limited, the fit is specifically electronic programming, embedded control signals, advertising decisioning, receiver-side processing, and user-specific content generation.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -12124,7 +12124,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Receiver-side processing of embedded digital data in media signals to control computers and peripherals and generate personalized content, asserted against an immersive-media studio.",
@@ -12297,14 +12297,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For ContentNexus LLC v. Vertigo Studios B.V., the fit is specifically immersive media, embedded digital data, peripheral control, receiver-side processing, and personalized content.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -12393,7 +12393,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For ContentNexus LLC v. Vertigo Studios B.V., the fit is specifically immersive media, embedded digital data, peripheral control, receiver-side processing, and personalized content.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -12480,7 +12480,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Dynamic mapping of voice identities across multiple telephony networks using time-sensitive policies, policy processors, usernames, and telephony switches under U.S. Patent No. 8,483,102.",
@@ -12692,7 +12692,7 @@
         "emailSource": "https://www.cis.fiu.edu/faculty-staff/selcuk-uluagac/",
         "role": "Eminent Scholar Chaired Professor, Florida International University",
         "fit": "Cybersecurity and privacy of IoT, cyber-physical systems, mobile/wireless systems, malware, and digital forensics. For Lab Technology LLC v. Yeastar Digital Technology Co., Ltd., the fit is specifically dynamic voice-identity mapping across telephony networks using time-sensitive policies, usernames, policy processors, and switches.",
-        "work": "Leads FIU\u2019s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
+        "work": "Leads FIU’s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for A. Selcuk Uluagac was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Applied security breadth is stronger than direct PBX, SIP-proxy, or voice-policy-engine specialization. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
@@ -12822,7 +12822,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Six patents on IPS/TFT-LCD pixel electrodes, light leakage and viewing-angle control, orientation-film manufacturing, storage capacitance, signal-delay compensation, and ion-induced display unevenness.",
@@ -13144,7 +13144,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "A separate four-patent display portfolio concerning transparent and composite LCD electrodes, calibrated current-driving circuits, and impedance-aware LED backlight control loops.",
@@ -13466,7 +13466,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Hierarchical, adaptive sensor-group classification for power-efficient mobile-device context awareness, asserted against Audi and Jeep vehicle systems.",
@@ -13804,7 +13804,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Server-assisted inbound-call control and robocall filtering using caller data, negative characteristics, and an interactive challenge-response step.",
@@ -14011,7 +14011,7 @@
         "emailSource": "https://www.cis.fiu.edu/faculty-staff/selcuk-uluagac/",
         "role": "Eminent Scholar Chaired Professor, Florida International University",
         "fit": "Cybersecurity and privacy of IoT, cyber-physical systems, mobile/wireless systems, malware, and digital forensics. For Data Fence LLC v. Bending Spoons S.p.A., the fit is specifically server-assisted inbound-call control, caller reputation data, negative characteristics, challenge-response, and robocall filtering.",
-        "work": "Leads FIU\u2019s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
+        "work": "Leads FIU’s Cyber-Physical Systems Security Lab and has more than ten patents. Published extensively in NDSS, USENIX Security, IEEE TIFS, and related applied-security venues.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for A. Selcuk Uluagac was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Applied security breadth is stronger than direct PBX, SIP-proxy, or voice-policy-engine specialization. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
@@ -14136,7 +14136,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Portable electronic mason-jar vacuum sealers, including pump, solenoid valve, air-delivery path, lid spacing, and controller architecture under U.S. Patent No. 12,209,005.",
@@ -14442,7 +14442,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Storage optimization that allegedly uses different physical storage-format attributes for general-purpose versus error-tolerant or streaming data on one medium.",
@@ -14772,7 +14772,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Dash-camera systems that wirelessly serve encoded video while combining synchronized GPS, accelerometer, and other non-audio sensor data into distinct tracks.",
@@ -14945,14 +14945,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For Contour IP Holding, LLC v. Firstech, LLC, the fit is specifically dash-camera encoding, wireless video serving, synchronized GPS/accelerometer metadata, and distinct media tracks.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -15041,7 +15041,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For Contour IP Holding, LLC v. Firstech, LLC, the fit is specifically dash-camera encoding, wireless video serving, synchronized GPS/accelerometer metadata, and distinct media tracks.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -15128,7 +15128,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Multifactorial optimization for wireless systems using cooperative agents, synthetic economic value, auctions, game-theoretic negotiation, and adaptive antenna radiation patterns.",
@@ -15458,7 +15458,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Five adaptive-bitrate streaming patents asserted against Gaia's HLS platform, involving client-side bitrate selection, streamlets, TCP delivery, network-performance factors, and buffer continuity.",
@@ -15631,14 +15631,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For DISH Technologies L.L.C. et al. v. Gaia, Inc., the fit is specifically HLS adaptive-bitrate streaming, client-side bitrate selection, streamlets, TCP delivery, performance factors, and buffer continuity.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -15727,7 +15727,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For DISH Technologies L.L.C. et al. v. Gaia, Inc., the fit is specifically HLS adaptive-bitrate streaming, client-side bitrate selection, streamlets, TCP delivery, performance factors, and buffer continuity.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -15814,7 +15814,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Design-patent comparison of an ornamental bottle-cap form and raised lattice pattern against Grin Oral Care rinse packaging.",
@@ -16015,7 +16015,7 @@
         "emailSource": "https://dschool.stanford.edu/directory/michael-barry",
         "role": "Adjunct Professor of Mechanical Engineering and product designer, Stanford d.school",
         "fit": "Fit for consumer packaged goods, product design, engineering integration, and needfinding.",
-        "work": "Three decades of strategic product design, dozens of patents, and clients including Kimberly-Clark, Nestl\u00e9, and Unilever.",
+        "work": "Three decades of strategic product design, dozens of patents, and clients including Kimberly-Clark, Nestlé, and Unilever.",
         "litigation": "No candidate-specific expert report, declaration, deposition, or trial testimony was located in the bounded public-source review.",
         "weakness": "Consulting relationships create conflict complexity; no public design-patent testimony located.",
         "links": [
@@ -16114,7 +16114,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "A multi-mode media device that allegedly switches between local playback and pure remote network control while keeping media outside the controller's data path.",
@@ -16287,14 +16287,14 @@
       },
       {
         "rank": 6,
-        "name": "Pablo C\u00e9sar",
-        "salutation": "Professor C\u00e9sar",
+        "name": "Pablo César",
+        "salutation": "Professor César",
         "email": "P.S.Cesar@cwi.nl",
         "emailSource": "https://www.cwi.nl/people/pablo-santiago-cesar-garcia",
         "role": "Group Leader, Distributed and Interactive Systems, CWI; Professor, TU Delft",
         "fit": "Distributed interactive media, real-time communication, media-object control, multimedia systems, and quality of experience. For SensoSure LLC v. Axis Communications AB, the fit is specifically multi-mode networked media devices, local playback, remote network control, and keeping media outside the controller data path.",
         "work": "Leads CWI research on complex collections of media objects distributed in time and space. Work on multiparty real-time communication, volumetric video, compression, and delivery has entered MPEG and ITU processes.",
-        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo C\u00e9sar was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
+        "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Pablo César was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
         "weakness": "Most direct fit is distributed interactive media and user experience, not OS kernel internals, classic information retrieval, or patent-priority historical analysis. Matter-specific diligence should also test independence from the parties, patents, accused products, and counsel; no conflict clearance has been performed.",
         "links": [
           [
@@ -16383,7 +16383,7 @@
         "salutation": "Ion Stoica",
         "email": "istoica@eecs.berkeley.edu",
         "emailSource": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
-        "role": "Tony Xu and Patti Bao Chancellor\u2019s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
+        "role": "Tony Xu and Patti Bao Chancellor’s Chair in Computer Science and Director, Sky Computing Lab, UC Berkeley",
         "fit": "Distributed systems, content delivery, cloud systems, network architecture, and deployable streaming platforms. For SensoSure LLC v. Axis Communications AB, the fit is specifically multi-mode networked media devices, local playback, remote network control, and keeping media outside the controller data path.",
         "work": "Co-founded Conviva Networks, whose technology measures and optimizes Internet video delivery. Research includes Dynamic Packet State, Chord, Ray, Apache Spark, Mesos, and cloud/distributed systems.",
         "litigation": "No candidate-specific public expert report, declaration, deposition, or trial-testimony record for Ion Stoica was located in a bounded public-web search. This is not proof that the candidate has never served in litigation; PACER, paid expert databases, retention records, and conflict systems were not searched.",
@@ -16470,7 +16470,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "AI-optimized unstructured-data analytics, layered visual analytics, and affinity scoring asserted against IXL's personalized learning and Wyzant's tutor-ranking systems.",
@@ -16804,7 +16804,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Renewable-natural-gas generation from landfill or digester gas under U.S. Patent No. 7,731,779, asserted across six operating-company defendants and facilities.",
@@ -17110,7 +17110,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Four Wi-Fi patents asserted against Ruckus access points, covering adaptive bandwidth and preamble puncturing, hybrid sector selection and beamforming, MU-MIMO support for legacy devices, and dynamic channel tracking.",
@@ -17440,7 +17440,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "The likely technical center is the validity of Bayer's finerenone compound patent, not whether a proposed bioequivalent generic contains finerenone. The public complaint analysis reports anticipation and obviousness theories based on U.S. Patent No. 8,404,709, plus written-description, enablement, and indefiniteness theories. Expert work will likely compare the earlier disclosure with the '180 patent's genus and finerenone-specific claims, reconstruct the medicinal-chemistry choices as of the 2007 priority date, assess stereochemical identity and analytical proof, and evaluate whether any asserted pharmacologic advantages are commensurate with the claimed invention.",
@@ -17550,8 +17550,8 @@
       },
       {
         "rank": 3,
-        "name": "Jeffrey Aub\u00e9",
-        "salutation": "Professor Aub\u00e9",
+        "name": "Jeffrey Aubé",
+        "salutation": "Professor Aubé",
         "email": "jaube@unc.edu",
         "emailSource": "https://chem.unc.edu/wp-content/uploads/2020/12/aube_cv.pdf",
         "role": "Eshelman Distinguished Professor, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy",
@@ -17796,7 +17796,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "U.S. Patent No. 12,680,293, titled 'Cabana bar shed with folding bar surface,' claims a knock-down shed with a cabana opening, upward-opening cover panel, folding bar surface, hinge-and-slot support mechanism, load-transfer structure, latch, and specified resin-panel constructions. Keter's official public materials identify a Signature 9x7 Outdoor Bar Shed and provide its assembly instructions.",
@@ -18172,7 +18172,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Public complaint analysis reports assertion of U.S. Patent Nos. 8,454,186 and 8,454,187 against pre-lit artificial trees, including the Maysville Pine and Forest Pine. The patents describe modular trunk sections carrying electrical connectors arranged so that electrical coupling can be made substantially independently of relative rotational orientation during assembly.",
@@ -18562,7 +18562,7 @@
     ],
     "technicalContext": {
       "kicker": "Public technical context",
-      "title": "What the asserted technology appears to require\u2014and what remains unverified",
+      "title": "What the asserted technology appears to require—and what remains unverified",
       "heading": "Preliminary technical frame from public sources",
       "paragraphs": [
         "Public complaint analysis reports assertion of U.S. Patent No. 6,868,682 against TRG data-center cooling systems, including equipment associated with Vertiv/Liebert, Stulz, Trane, Schneider Electric, and DataAire. The patent describes agent-based control in which agents receive sensory temperature data, adjust cooling-fluid delivery, and request or coordinate additional resources when local control is insufficient.",
@@ -18868,5 +18868,391 @@
     ],
     "outreachSubject": "Potential expert consultation - Valtrus Innovations Ltd. et al. v. TRG Datacenters, LLC",
     "pdfUrl": "/packets/valtrus-innovations-v-trg-datacenters-expert-research.pdf"
+  },
+  "boehringer-ingelheim-v-fdc": {
+    "title": "Boehringer Ingelheim Pharmaceuticals Inc. et al. v. FDC Limited et al.",
+    "fullCaption": "Boehringer Ingelheim Pharmaceuticals Inc. et al. v. FDC Limited et al.",
+    "deck": "Potential expert disciplines and candidates for a newly filed Patent - Abbreviated New Drug Application (ANDA) matter concerning U.S. Patent No. 11,090,323, U.S. Patent No. 11,833,166, U.S. Patent No. 12,433,906, U.S. Patent No. 12,527,810.",
+    "prepared": "2026-08-25",
+    "facts": [
+      [
+        "Filed",
+        "2026-08-21"
+      ],
+      [
+        "Forum",
+        "U.S. District Court for the District of New Jersey"
+      ],
+      [
+        "Docket",
+        "3:26-cv-10744"
+      ],
+      [
+        "Matter",
+        "Patent - Abbreviated New Drug Application (Anda)"
+      ]
+    ],
+    "assessmentTitle": "The public record identifies a technically complex dispute, while product-specific proof remains to be developed.",
+    "assessmentBody": "The public complaint analysis reports that FDC submitted ANDA No. 220862 seeking approval for 10 mg and 25 mg empagliflozin tablets before expiration of four asserted Jardiance method-of-treatment patents. The likely technical center is what FDC's proposed label directs or encourages clinicians to do: assess renal function, treat patients with type 2 diabetes in the claimed estimated-glomerular-filtration-rate range, discontinue or modify treatment at lower renal function, and treat adolescents aged 10 to 17. Expert work will likely require close comparison of the claims, proposed label, renal-function methods, clinical-practice context, and prior art for the claimed patient subgroups and treatment steps. The complaint analysis is a secondary public source, not a substitute for the filed complaint and exhibits, FDC's Paragraph IV notice, the final or proposed FDC label, complete patent prosecution histories, expert reports, or discovery. No conclusion is drawn on infringement, inducement, validity, enforceability, claim scope, regulatory outcome, or commercial outcome.",
+    "disciplines": "The preliminary slate combines complementary specialists matched to the asserted technical questions. Candidate roles, public work, email evidence, litigation-history findings, and diligence concerns appear below.",
+    "stakes": [
+      {
+        "label": "Verified filing",
+        "value": "3:26-cv-10744",
+        "detail": "Caption, filing date, forum, and docket verified from the linked public docket."
+      },
+      {
+        "label": "Technical frame",
+        "value": "U.S. Patent No. 11,090,323, U.S. Patent No. 11,833,166, U.S. Patent No. 12,433,906, U.S. Patent No. 12,527,810",
+        "detail": "Public patent and technical sources frame the preliminary issue map; the pleadings and discovery must control."
+      },
+      {
+        "label": "Candidate bench",
+        "value": "10 sourced emails",
+        "detail": "Every potential expert has a public professional email and source link; no one was contacted."
+      }
+    ],
+    "technicalContext": {
+      "kicker": "Public technical context",
+      "title": "What the asserted technology appears to require—and what remains unverified",
+      "heading": "Preliminary technical frame from public sources",
+      "paragraphs": [
+        "The public complaint analysis reports that FDC submitted ANDA No. 220862 seeking approval for 10 mg and 25 mg empagliflozin tablets before expiration of four asserted Jardiance method-of-treatment patents. The likely technical center is what FDC's proposed label directs or encourages clinicians to do: assess renal function, treat patients with type 2 diabetes in the claimed estimated-glomerular-filtration-rate range, discontinue or modify treatment at lower renal function, and treat adolescents aged 10 to 17. Expert work will likely require close comparison of the claims, proposed label, renal-function methods, clinical-practice context, and prior art for the claimed patient subgroups and treatment steps.",
+        "The complaint analysis is a secondary public source, not a substitute for the filed complaint and exhibits, FDC's Paragraph IV notice, the final or proposed FDC label, complete patent prosecution histories, expert reports, or discovery. No conclusion is drawn on infringement, inducement, validity, enforceability, claim scope, regulatory outcome, or commercial outcome."
+      ],
+      "links": [
+        [
+          "U.S. Patent No. 11,090,323",
+          "reported asserted patent",
+          "https://patents.google.com/patent/US11090323B2/en"
+        ],
+        [
+          "U.S. Patent No. 11,833,166",
+          "reported asserted patent",
+          "https://patents.google.com/patent/US11833166B2/en"
+        ],
+        [
+          "U.S. Patent No. 12,433,906",
+          "reported asserted patent",
+          "https://patents.google.com/patent/US12433906B2/en"
+        ],
+        [
+          "U.S. Patent No. 12,527,810",
+          "reported asserted patent",
+          "https://patents.google.com/patent/US12527810B2/en"
+        ],
+        [
+          "Public technical analysis",
+          "secondary source; pleadings control",
+          "https://ai-lab.exparte.com/case/dct/njd/3%3A26-cv-10744/doc/analysis/1"
+        ]
+      ]
+    },
+    "issues": [
+      {
+        "title": "Does FDC's proposed label direct or encourage performance of every asserted...",
+        "question": "Does FDC's proposed label direct or encourage performance of every asserted treatment step?",
+        "proof": "Proposed and final FDC labels; Jardiance label history; ANDA correspondence; medical-review materials; asserted claims; prescribing guidelines; physician testimony; formularies and clinical pathways",
+        "discipline": "Technical issue 01"
+      },
+      {
+        "title": "How is estimated glomerular filtration rate assessed in ordinary diabetes...",
+        "question": "How is estimated glomerular filtration rate assessed in ordinary diabetes and kidney care?",
+        "proof": "Laboratory methods and reports; CKD-EPI or other equations; label instructions; medical records; clinical guidelines; regulatory reviews; protocol and standard-of-care evidence",
+        "discipline": "Technical issue 02"
+      },
+      {
+        "title": "What treatment acts are clinically meaningful for patients with type 2...",
+        "question": "What treatment acts are clinically meaningful for patients with type 2 diabetes and eGFR at least 30 but below 60?",
+        "proof": "Empagliflozin trials and subgroup analyses; FDA reviews; prescribing information; guidelines; real-world studies; renal and glycemic outcome measures; adverse-event data",
+        "discipline": "Technical issue 03"
+      },
+      {
+        "title": "What does the intrinsic and clinical record mean by discontinuation or...",
+        "question": "What does the intrinsic and clinical record mean by discontinuation or treatment modification below an eGFR threshold?",
+        "proof": "Claim language and prosecution histories; label versions; regulatory communications; clinical protocols; adverse-event management guidance; expert explanation of renal-function trajectories",
+        "discipline": "Technical issue 04"
+      },
+      {
+        "title": "How does the adolescent claim map onto treatment of patients aged 10...",
+        "question": "How does the adolescent claim map onto treatment of patients aged 10 through 17?",
+        "proof": "Pediatric label sections; DINAMO and related studies; pediatric diabetes guidelines; age-stratified safety and efficacy data; regulatory pediatric assessments; proposed indication language",
+        "discipline": "Technical issue 05"
+      },
+      {
+        "title": "What did the prior art teach about empagliflozin use in the claimed...",
+        "question": "What did the prior art teach about empagliflozin use in the claimed renal-function and adolescent subgroups?",
+        "proof": "Priority-date patents and publications; historical labels; guidelines; trial protocols and results; regulatory meeting materials; pediatric study plans; contemporaneous clinician surveys and textbooks",
+        "discipline": "Technical issue 06"
+      }
+    ],
+    "docket": {
+      "summary": "The public docket identifies Boehringer Ingelheim Pharmaceuticals Inc., Boehringer Ingelheim International GmbH, and Boehringer Ingelheim Pharma GmbH & Co. KG as plaintiffs and FDC Limited and FDC Inc. as defendants. It records an August 21, 2026 complaint, civil cover sheet, report on the filing or determination of an action regarding a patent or trademark, and five exhibits. The docket identifies Liza M. Walsh of Walsh Pizzi O'Reilly Falanga LLP as counsel for all three plaintiffs.",
+      "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv10744/606474"
+    },
+    "recipient": {
+      "name": "Liza M. Walsh",
+      "role": "Outside counsel, Walsh Pizzi O'Reilly Falanga LLP",
+      "email": "lwalsh@walsh.law",
+      "emailSource": "https://walsh.law/wp-content/uploads/Walsh-1.pdf"
+    },
+    "experts": [
+      {
+        "rank": 1,
+        "name": "David Z. I. Cherney",
+        "salutation": "Professor Cherney",
+        "email": "david.cherney@uhn.ca",
+        "emailSource": "https://physiology.utoronto.ca/faculty/david-cherney",
+        "role": "Professor of Medicine and Physiology, University of Toronto; nephrologist and Director of the Renal Physiology Laboratory, University Health Network",
+        "fit": "Top fit for empagliflozin and SGLT2 renal physiology, eGFR-related treatment effects, diabetic kidney disease, and translation between clinical-trial evidence and label-directed practice.",
+        "work": "His University of Toronto profile places him in nephrology, physiology, and the Banting & Best Diabetes Centre. His published work addresses SGLT2 inhibitors, renal hemodynamics, glycosuria, and management of diabetic kidney disease.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His extensive SGLT2 clinical research may include relationships with manufacturers, including companies associated with empagliflozin; all trial, consulting, funding, and publication ties require focused conflicts and cross-examination diligence. He is not a pediatric specialist or labeling expert.",
+        "links": [
+          [
+            "Source 1",
+            "https://physiology.utoronto.ca/faculty/david-cherney"
+          ],
+          [
+            "Source 2",
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC9884958/"
+          ]
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Hiddo J. L. Heerspink",
+        "salutation": "Professor Heerspink",
+        "email": "h.j.lambers.heerspink@umcg.nl",
+        "emailSource": "https://clinicaltrials.gov/study/NCT07527390",
+        "role": "Professor of Clinical Pharmacology, University Medical Center Groningen",
+        "fit": "Excellent clinical-pharmacology and kidney-trial fit for SGLT2 treatment effects, albuminuria and eGFR endpoints, renal-subgroup evidence, dose-response, and the interpretation of label-supporting trials.",
+        "work": "UMCG identifies him as a professor conducting drug studies and personalized medicine in diabetic kidney disease. He has led major kidney-outcomes analyses and SGLT2 trials, including work on dapagliflozin and canagliflozin.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His extensive industry-sponsored trial portfolio creates a substantial relationship-diligence burden. His closest published work is often on SGLT2 agents other than empagliflozin, and he is not a pediatric endocrinologist or U.S. regulatory-label specialist.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.umcg.nl/s/van-one-size-fits-all-naar-geneesmiddelen-op-maat"
+          ],
+          [
+            "Source 2",
+            "https://www.umcg.nl/s/nieuw-diabetesmedicijn-beschermt-mogelijk-ook-de-nieren?afdeling=1453775"
+          ],
+          [
+            "Source 3",
+            "https://clinicaltrials.gov/study/NCT07527390"
+          ]
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Christoph Wanner",
+        "salutation": "Professor Wanner",
+        "email": "christoph.wanner@ndph.ox.ac.uk",
+        "emailSource": "https://www.ctsu.ox.ac.uk/team/christoph-wanner",
+        "role": "Senior Professor of Medicine, University Hospital of Würzburg; Visiting Professor, Oxford Population Health",
+        "fit": "Direct empagliflozin fit for diabetic-kidney outcomes and the clinical interpretation of renal-function evidence, including EMPA-REG and later kidney studies.",
+        "work": "Oxford identifies him as a steering-committee member for empagliflozin studies and notes the landmark EMPA-REG outcome and renal analyses, alongside extensive diabetic-kidney-disease research.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His direct involvement in empagliflozin studies makes manufacturer, sponsor, publication, and advocacy relationships an especially important conflicts issue. He is based in Europe and may be closer to outcome evidence than U.S. label interpretation.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.ctsu.ox.ac.uk/team/christoph-wanner"
+          ]
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Silvio E. Inzucchi",
+        "salutation": "Professor Inzucchi",
+        "email": "silvio.inzucchi@yale.edu",
+        "emailSource": "https://medicine.yale.edu/profile/silvio-inzucchi/",
+        "role": "Professor of Medicine and Clinical Chief of Endocrinology, Yale School of Medicine; Medical Director, Yale Diabetes Center",
+        "fit": "Strong diabetes-treatment and empagliflozin cardiovascular-outcomes fit for standard of care, glycemic-control meaning, patient selection, and how clinicians read and act on antihyperglycemic labels.",
+        "work": "Yale reports leadership in large trials of diabetes medications and cardiovascular impact, extensive work on pharmacologic antihyperglycemic therapy, and authorship of major diabetes-management position statements.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His trial and advisory relationships with diabetes-drug manufacturers require full diligence, especially any empagliflozin or Boehringer/Lilly connections. He is not primarily a nephrologist or pediatric diabetes specialist.",
+        "links": [
+          [
+            "Source 1",
+            "https://medicine.yale.edu/profile/silvio-inzucchi/"
+          ]
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Katherine R. Tuttle",
+        "salutation": "Professor Tuttle",
+        "email": "katherine.tuttle@providence.org",
+        "emailSource": "https://nephrology.uw.edu/people/faculty/tuttle-k",
+        "role": "Clinical Professor of Medicine, University of Washington; Executive Director for Research, Providence Health Care",
+        "fit": "High fit for diabetic kidney disease, eGFR thresholds, kidney-protection evidence, SGLT2 guideline context, and the relationship between clinical-trial endpoints and real-world renal care.",
+        "work": "Her University of Washington profile lists diabetic kidney disease and novel therapies as core research interests, service on the EMPA-KIDNEY steering committee, and co-chairing an SGLT2-inhibitor workshop in diabetic kidney disease.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "Her broad clinical-trial and advisory activity creates sponsor and consulting diligence. Publicly identified involvement in Boehringer-related kidney research may create a direct conflict concern that must be assessed before any outreach.",
+        "links": [
+          [
+            "Source 1",
+            "https://nephrology.uw.edu/people/faculty/tuttle-k"
+          ],
+          [
+            "Source 2",
+            "https://newsroom.uw.edu/news-releases/outsize-benefit-seen-in-trial-of-drug-for-kidney-disease/"
+          ]
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "David C. Wheeler",
+        "salutation": "Professor Wheeler",
+        "email": "d.wheeler@ucl.ac.uk",
+        "emailSource": "https://www.ucl.ac.uk/nephrology/people",
+        "role": "Professor of Kidney Medicine, University College London; Head of the Department of Renal Medicine, UCL",
+        "fit": "Strong CKD-trial and SGLT2 fit for renal outcomes, eGFR assessment, treatment thresholds, clinical guidelines, and comparison of trial populations with claimed subgroups.",
+        "work": "UCL describes his leadership of randomized trials of new CKD therapies, including SGLT2 inhibitors, and identifies him as academic co-chair of DAPA-CKD with extensive work on kidney and cardiovascular outcomes.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His most visible SGLT2 leadership centers on dapagliflozin rather than empagliflozin. Industry trial roles, sponsors, advisory work, and international location require diligence; pediatric and U.S. labeling issues are outside his core focus.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.ucl.ac.uk/medical-sciences/divisions/medicine/research/clinical-kidney-disease-and-dialysis"
+          ],
+          [
+            "Source 2",
+            "https://www.ucl.ac.uk/nephrology/people"
+          ]
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Vlado Perkovic",
+        "salutation": "Professor Perkovic",
+        "email": "vlado.perkovic@unsw.edu.au",
+        "emailSource": "https://www.unsw.edu.au/staff/vlado-perkovic",
+        "role": "Provost and Scientia Professor, UNSW Sydney; nephrologist and kidney-trial investigator",
+        "fit": "Strong fit for kidney-outcome trials, progression of CKD, interpretation of renal endpoints, and whether evidence from SGLT2 studies supports treatment expectations in the claimed eGFR subgroup.",
+        "work": "UNSW states that his research focuses on trials and epidemiology to prevent kidney-disease progression and that he has led major international studies and kidney-disease guidelines.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "He is a senior academic administrator with broad trial relationships and potential scheduling constraints. Much of his SGLT2 work involves canagliflozin or class-wide evidence rather than the specific asserted empagliflozin methods.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.unsw.edu.au/staff/vlado-perkovic"
+          ]
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Lori M. Laffel",
+        "salutation": "Professor Laffel",
+        "email": "lori.laffel@joslin.harvard.edu",
+        "emailSource": "https://diabetesjournals.org/spectrum/article-abstract/35/3/351/144723",
+        "role": "Professor of Pediatrics, Harvard Medical School; Senior Investigator and Chief of the Pediatric, Adolescent, and Young Adult Section, Joslin Diabetes Center",
+        "fit": "Best pediatric fit for the patent directed to patients aged 10 through 17, adolescent diabetes care, treatment adherence, safety, age-specific clinical practice, and the meaning of a pediatric label indication.",
+        "work": "Joslin identifies her as a pediatric endocrinologist and clinical investigator whose work covers children, adolescents, and young adults, including treatment of type 2 diabetes in youth and prevention of diabetes complications.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "Her strongest public record concerns pediatric diabetes broadly and often type 1 diabetes, not specifically adolescent empagliflozin or renal-function claims. Industry, trial, and guideline relationships require diligence.",
+        "links": [
+          [
+            "Source 1",
+            "https://joslin.org/find-an-expert/lori-laffel-md"
+          ],
+          [
+            "Source 2",
+            "https://diabetesjournals.org/spectrum/article-abstract/35/3/351/144723"
+          ]
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "John P. H. Wilding",
+        "salutation": "Professor Wilding",
+        "email": "J.P.H.Wilding@liverpool.ac.uk",
+        "emailSource": "https://www.liverpool.ac.uk/people/john-wilding",
+        "role": "Professor of Medicine, Cardiovascular and Metabolic Medicine, University of Liverpool",
+        "fit": "Strong type 2 diabetes pharmacotherapy fit for SGLT2 positioning, glycemic control, patient selection, dose and benefit-risk context, and ordinary clinician response to label language.",
+        "work": "Liverpool reports leadership of clinical research in obesity, diabetes, and endocrinology, more than 350 publications, extensive diabetes-drug trials, and work specifically positioning SGLT2 inhibitors in the treatment algorithm.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His expertise is broader diabetes management rather than renal physiology, pediatric care, patent disclosures, or U.S. label regulation. Clinical-trial, consulting, and manufacturer relationships require full diligence.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.liverpool.ac.uk/people/john-wilding"
+          ],
+          [
+            "Source 2",
+            "https://livrepository.liverpool.ac.uk/3004020/"
+          ]
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Peter Rossing",
+        "salutation": "Professor Rossing",
+        "email": "peter.rossing@regionh.dk",
+        "emailSource": "https://www.sdcc.dk/english/about-Steno/management/Peter-Rossing/Pages/default.aspx",
+        "role": "Head of Clinical and Translational Research, Steno Diabetes Center Copenhagen; Professor, University of Copenhagen",
+        "fit": "Strong diabetic-kidney-disease and SGLT2 fit for renal and cardiovascular risk, subgroup evidence, clinical guidelines, treatment monitoring, and the significance of eGFR-based care decisions.",
+        "work": "Steno identifies his focus on diabetic kidney and cardiovascular complications, clinical trials of kidney treatments, and steering-group roles for DAPA-CKD and other major cardiorenal trials; his current work includes SGLT2 inhibitors.",
+        "litigation": "No candidate-specific expert report, deposition, trial testimony, or admissibility decision was located in the bounded public search.",
+        "weakness": "His extensive work with pharmaceutical-sponsored trials and treatment guidelines creates meaningful conflicts and impeachment diligence. He is not a pediatric specialist or U.S. labeling expert, and his work often addresses class effects rather than a single product.",
+        "links": [
+          [
+            "Source 1",
+            "https://www.sdcc.dk/english/about-Steno/management/Peter-Rossing/Pages/default.aspx"
+          ],
+          [
+            "Source 2",
+            "https://www.sdcc.dk/english/research/researchers/pages/peter-rossing.aspx"
+          ]
+        ]
+      }
+    ],
+    "independenceNote": "No candidate was contacted. No availability, interest, conflicts, admissibility, or retention suitability determination has been made. Full party, affiliate, counsel, technology, publication, patent, funding, consulting, and prior-testimony diligence remains necessary.",
+    "sources": [
+      [
+        "Public docket",
+        "Boehringer Ingelheim Pharmaceuticals Inc. et al. v. FDC Limited et al., 3:26-cv-10744",
+        "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv10744/606474"
+      ],
+      [
+        "Counsel email",
+        "Public source for Liza M. Walsh",
+        "https://walsh.law/wp-content/uploads/Walsh-1.pdf"
+      ],
+      [
+        "Asserted patent",
+        "U.S. Patent No. 11,090,323",
+        "https://patents.google.com/patent/US11090323B2/en"
+      ],
+      [
+        "Asserted patent",
+        "U.S. Patent No. 11,833,166",
+        "https://patents.google.com/patent/US11833166B2/en"
+      ],
+      [
+        "Asserted patent",
+        "U.S. Patent No. 12,433,906",
+        "https://patents.google.com/patent/US12433906B2/en"
+      ],
+      [
+        "Asserted patent",
+        "U.S. Patent No. 12,527,810",
+        "https://patents.google.com/patent/US12527810B2/en"
+      ],
+      [
+        "Technical context",
+        "Public secondary technical analysis",
+        "https://ai-lab.exparte.com/case/dct/njd/3%3A26-cv-10744/doc/analysis/1"
+      ]
+    ],
+    "limitations": [
+      "The complaint analysis is a secondary public source, not a substitute for the filed complaint and exhibits, FDC's Paragraph IV notice, the final or proposed FDC label, complete patent prosecution histories, expert reports, or discovery. No conclusion is drawn on infringement, inducement, validity, enforceability, claim scope, regulatory outcome, or commercial outcome.",
+      "No attorney or expert was contacted. Availability, interest, compensation, conflicts, admissibility, and retention suitability were not checked."
+    ],
+    "outreachSubject": "Potential expert consultation - Boehringer Ingelheim Pharmaceuticals Inc. et al. v. FDC Limited et al.",
+    "pdfUrl": "/packets/boehringer-ingelheim-v-fdc-expert-research.pdf"
   }
 }
