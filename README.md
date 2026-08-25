@@ -1,5 +1,18 @@
 # Flint Witness Research
 
+## Analytics
+
+The site uses Google Analytics 4 through the standard Google tag in
+`app/layout.tsx`.
+
+- Property: `Flint Witness Research`
+- Web stream: `Flint Witness Research`
+- Website: `https://flint-witness-research.vercel.app`
+- Measurement ID: `G-N01KGDT1FY`
+- Stream ID: `15501779451`
+
+Vercel Analytics is not loaded by the site.
+
 Public, matter-specific expert research for technically complex litigation.
 
 This repository contains the client-facing research packet for:
