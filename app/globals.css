@@ -29,7 +29,9 @@ h1 { font-family:Georgia, serif; font-size:clamp(58px, 9.4vw, 132px); line-heigh
 .facts div:not(:first-child){padding-left:22px}.facts div:last-child{border:0}
 .facts small { display:block; color:#52615a; text-transform:uppercase; letter-spacing:.12em; font-size:10px; margin-bottom:8px; }
 .facts strong { font-size:15px; }
-.brief { background:var(--cream); width:min(1280px, calc(100% - 24px)); padding:90px max(24px, calc((100% - 1180px)/2)); display:grid; grid-template-columns:100px 1fr; gap:40px; }
+.brief { background:var(--cream); width:min(1280px, calc(100% - 24px)); padding:90px clamp(24px,4vw,64px); display:grid; grid-template-columns:100px minmax(0,1fr); gap:40px; }
+.brief>div:last-child { width:100%; max-width:1000px; }
+.brief h2 { max-width:960px; font-size:clamp(40px,4.8vw,68px); }
 .section-no { font-family:Georgia,serif; color:var(--rust); font-size:54px; }
 .kicker { color:var(--rust); }
 h2 { font-family:Georgia,serif; font-size:clamp(40px,6vw,78px); line-height:.96; letter-spacing:-.04em; margin:14px 0 28px; }
