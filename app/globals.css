@@ -14,7 +14,7 @@ a { color:inherit; }
 .eyebrow,.kicker { text-transform:uppercase; letter-spacing:.17em; font-weight:700; font-size:11px; }
 .eyebrow { display:flex; gap:10px; align-items:center; }
 .eyebrow span { width:28px; border-top:2px solid var(--rust); }
-h1 { font-family:Georgia, serif; font-size:clamp(58px, 9.4vw, 132px); line-height:.88; letter-spacing:-.065em; margin:35px 0 28px; max-width:1050px; }
+h1 { font-family:Georgia, serif; font-size:clamp(48px, 7.2vw, 104px); line-height:.92; letter-spacing:-.055em; margin:35px 0 28px; max-width:1050px; }
 .dek { font-family:Georgia, serif; font-size:clamp(22px, 3vw, 39px); line-height:1.17; max-width:920px; margin:0; }
 .label { display:inline-block; background:var(--ink); color:white; padding:12px 16px; font-size:12px; letter-spacing:.04em; margin-top:34px; }
 .hero-actions { display:flex; flex-wrap:wrap; align-items:stretch; gap:10px; margin-top:34px; }
@@ -31,10 +31,10 @@ h1 { font-family:Georgia, serif; font-size:clamp(58px, 9.4vw, 132px); line-heigh
 .facts strong { font-size:15px; }
 .brief { background:var(--cream); width:min(1280px, calc(100% - 24px)); padding:90px clamp(24px,4vw,64px); display:grid; grid-template-columns:100px minmax(0,1fr); gap:40px; }
 .brief>div:last-child { width:100%; max-width:1000px; }
-.brief h2 { max-width:960px; font-size:clamp(40px,4.8vw,68px); }
+.brief h2 { max-width:1000px; font-size:clamp(36px,4vw,58px); }
 .section-no { font-family:Georgia,serif; color:var(--rust); font-size:54px; }
 .kicker { color:var(--rust); }
-h2 { font-family:Georgia,serif; font-size:clamp(40px,6vw,78px); line-height:.96; letter-spacing:-.04em; margin:14px 0 28px; }
+h2 { font-family:Georgia,serif; font-size:clamp(34px,4.2vw,58px); line-height:1.02; letter-spacing:-.035em; margin:14px 0 28px; }
 .lead { max-width:870px; font-size:20px; line-height:1.58; }
 .issue-preview { display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:#17231f33; margin-top:48px; border:1px solid #17231f33; }
 .issue-preview article { background:var(--cream); padding:30px; }
@@ -111,4 +111,4 @@ footer { background:#dcd4c5; padding:36px 0; }
 footer .shell { display:flex; justify-content:space-between; align-items:center; gap:20px; font-size:10px; text-transform:uppercase; letter-spacing:.1em; }
 .footer-mark { font-size:20px; font-weight:900; letter-spacing:-.04em; }.footer-mark span{color:var(--rust)}
 @media(max-width:850px){.section-head{grid-template-columns:1fr}.method{margin-left:0}.expert-grid{grid-template-columns:1fr}.diligence-grid{grid-template-columns:1fr 1fr}.issue-list article{grid-template-columns:50px 1fr}.discipline{grid-column:2}.stakes{grid-template-columns:1fr}.verification{grid-template-columns:1fr}.claim-explainer{grid-template-columns:1fr;gap:30px}.service-cta .shell{grid-template-columns:1fr;gap:28px}.service-cta a{max-width:360px}}
-@media(max-width:700px){.shell{width:min(100% - 28px,1180px)}.nav{height:68px}.navlinks{display:none}.brand{font-size:18px}.hero{padding-top:46px}.eyebrow{line-height:1.5}h1{font-size:clamp(50px,18vw,76px);margin-top:26px}.dek{font-size:22px}.value-strip{grid-template-columns:1fr;gap:10px}.facts{grid-template-columns:1fr 1fr;margin-top:46px}.facts div:nth-child(2){border-right:0}.brief{grid-template-columns:1fr;padding-top:58px}.section-no{font-size:36px}.label{line-height:1.5}.claims,.issues,.experts,.sources{padding:72px 0}.section-head span{font-size:36px}.issue-list article{grid-template-columns:1fr;gap:8px}.discipline{grid-column:auto}.diligence-grid,.limits{grid-template-columns:1fr}.expert{padding:25px}.email-action{grid-template-columns:1fr}.verification{gap:35px}footer .shell{align-items:flex-start;flex-direction:column}}
+@media(max-width:700px){.shell{width:min(100% - 28px,1180px)}.nav{height:68px}.navlinks{display:none}.brand{font-size:18px}.hero{padding-top:46px}.eyebrow{line-height:1.5}h1{font-size:clamp(44px,15vw,64px);margin-top:26px}.dek{font-size:22px}.value-strip{grid-template-columns:1fr;gap:10px}.facts{grid-template-columns:1fr 1fr;margin-top:46px}.facts div:nth-child(2){border-right:0}.brief{grid-template-columns:1fr;padding-top:58px}.section-no{font-size:36px}.label{line-height:1.5}.claims,.issues,.experts,.sources{padding:72px 0}.section-head span{font-size:36px}.issue-list article{grid-template-columns:1fr;gap:8px}.discipline{grid-column:auto}.diligence-grid,.limits{grid-template-columns:1fr}.expert{padding:25px}.email-action{grid-template-columns:1fr}.verification{gap:35px}footer .shell{align-items:flex-start;flex-direction:column}}
