@@ -6,6 +6,8 @@ The site uses Google Analytics 4 through Next.js's Google Analytics component
 in `app/layout.tsx`.
 
 - Property: `Flint Witness Research`
+- Analytics account ID: `209047395`
+- Property ID: `551666709`
 - Web stream: `Flint Witness Research`
 - Website: `https://flint-witness-research.vercel.app`
 - Measurement ID: `G-N01KGDT1FY`
