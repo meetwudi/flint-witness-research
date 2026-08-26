@@ -81,7 +81,7 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
         <button className="interest-dialog__close" type="button" aria-label="Close" onClick={() => setOpen(false)}>×</button>
         {status === "success" ? <div className="interest-success">
           <p className="kicker">Request received</p>
-          <h2 id="interest-title">Thanks—Di will follow up personally.</h2>
+          <h2 id="interest-title">Thanks—we will follow up personally.</h2>
           <p>We’ll use your information only to follow up about Flint Witness Research.</p>
           <button type="button" onClick={() => setOpen(false)}>Return to the packet</button>
         </div> : <>
