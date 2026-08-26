@@ -63,7 +63,7 @@ export async function POST(request: Request) {
     },
     body: JSON.stringify({
       from: process.env.RESEND_FROM_EMAIL || "Flint Witness Research <research@meetwudi.com>",
-      to: [process.env.LEAD_NOTIFICATION_EMAIL || "flint@flintnotes.ai"],
+      to: [process.env.LEAD_NOTIFICATION_EMAIL || "flint@flintknows.ai"],
       reply_to: email,
       subject: `New packet request — ${packetTitle}`,
       text: fields.map(([label, value]) => `${label}: ${value}`).join("\n"),

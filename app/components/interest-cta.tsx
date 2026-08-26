@@ -97,7 +97,7 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
               <label className="interest-honeypot" aria-hidden="true"><span>Website</span><input name="website" type="text" tabIndex={-1} autoComplete="off" /></label>
             </div>
             <label className="interest-consent"><input name="consent" type="checkbox" required /><span>I’d like Flint to email me matter-specific expert-research packets and related service updates.</span></label>
-            {status === "error" && <p className="interest-error" role="alert">We couldn’t send your request. Please try again or email <a href="mailto:flint@flintnotes.ai">flint@flintnotes.ai</a>.</p>}
+            {status === "error" && <p className="interest-error" role="alert">We couldn’t send your request. Please try again or email <a href="mailto:flint@flintknows.ai">flint@flintknows.ai</a>.</p>}
             <button className="interest-submit" type="submit" disabled={status === "submitting"}>{status === "submitting" ? "Sending…" : "Send me future packets"}</button>
           </form>
         </>}
