@@ -15,6 +15,25 @@ in `app/layout.tsx`.
 
 Vercel Analytics is not loaded by the site.
 
+## Packet lead capture
+
+Every matter packet renders a mobile-friendly sticky call-to-action with two
+paths: open the native request form or book a 15-minute conversation. Successful
+form submissions call `POST /api/interest`, which sends the lead to
+`flint@flintknows.ai` through Resend. The root page remains blank.
+
+Production configuration:
+
+- `RESEND_API_KEY`: Vercel secret; Resend sending-only key restricted to the
+  verified `meetwudi.com` domain
+- Default sender: `Flint Witness Research <research@meetwudi.com>`
+- Default recipient: `flint@flintknows.ai`
+
+The CTA records `lead_form_open`, `lead_submit`, and `schedule_click` events in
+Google Analytics with the packet slug and `sticky_packet_cta` placement. The
+form includes explicit email consent, an origin check, server-side validation,
+and a honeypot field. Do not commit the Resend credential.
+
 Public, matter-specific expert research for technically complex litigation.
 
 This repository contains the client-facing research packet for:
