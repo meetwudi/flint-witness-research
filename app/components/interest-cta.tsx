@@ -10,6 +10,25 @@ declare global {
 }
 
 const MEETING_URL = "https://tidycal.com/meetwudi/15-minute-meeting";
+const ATTRIBUTION_KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"] as const;
+
+type Attribution = Record<(typeof ATTRIBUTION_KEYS)[number], string>;
+
+function attributionFromLocation(): Attribution {
+  if (typeof window === "undefined") {
+    return Object.fromEntries(ATTRIBUTION_KEYS.map((key) => [key, ""])) as Attribution;
+  }
+  const query = new URLSearchParams(window.location.search);
+  return Object.fromEntries(ATTRIBUTION_KEYS.map((key) => [key, (query.get(key) || "").slice(0, 160)])) as Attribution;
+}
+
+function meetingUrlWithAttribution(): string {
+  const url = new URL(MEETING_URL);
+  for (const [key, value] of Object.entries(attributionFromLocation())) {
+    if (value) url.searchParams.set(key, value);
+  }
+  return url.toString();
+}
 
 function track(name: string, parameters: Record<string, string>) {
   window.gtag?.("event", name, parameters);
@@ -32,13 +51,14 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
   function openForm() {
     setOpen(true);
     setStatus("idle");
-    track("lead_form_open", { packet_slug: pathname, placement: "sticky_packet_cta" });
+    track("lead_form_open", { packet_slug: pathname, placement: "sticky_packet_cta", ...attributionFromLocation() });
   }
 
   async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     setStatus("submitting");
     const form = new FormData(event.currentTarget);
+    const attribution = attributionFromLocation();
     const response = await fetch("/api/interest", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -51,6 +71,7 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
         consent: form.get("consent") === "on",
         packetTitle,
         packetPath: pathname,
+        attribution,
       }),
     });
 
@@ -60,7 +81,7 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
     }
 
     setStatus("success");
-    track("lead_submit", { packet_slug: pathname, placement: "sticky_packet_cta" });
+    track("lead_submit", { packet_slug: pathname, placement: "sticky_packet_cta", ...attribution });
   }
 
   return <>
@@ -69,7 +90,7 @@ export function InterestCta({ packetTitle }: { packetTitle: string }) {
         <p><b>Want research like this as new matters develop?</b><span>Receive matter-specific expert-research packets during the pilot.</span></p>
         <div className="sticky-interest__actions">
           <button type="button" onClick={openForm}>Send me future packets</button>
-          <a href={MEETING_URL} target="_blank" rel="noreferrer" onClick={() => track("schedule_click", { packet_slug: pathname, placement: "sticky_packet_cta" })}>Book 15 minutes ↗</a>
+          <a href={meetingUrlWithAttribution()} target="_blank" rel="noreferrer" onClick={() => track("schedule_click", { packet_slug: pathname, placement: "sticky_packet_cta", ...attributionFromLocation() })}>Book 15 minutes ↗</a>
         </div>
       </div>
     </aside>

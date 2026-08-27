@@ -37,6 +37,8 @@ export async function POST(request: Request) {
   const matterInterest = clean(data.matterInterest, 1200);
   const packetTitle = clean(data.packetTitle, 240);
   const packetPath = clean(data.packetPath, 300);
+  const rawAttribution = data.attribution && typeof data.attribution === "object" ? data.attribution as Record<string, unknown> : {};
+  const attribution = ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"].map((key) => [key, clean(rawAttribution[key], 160)] as const).filter(([, value]) => value);
   const consent = data.consent === true;
 
   if (!EMAIL_PATTERN.test(email) || !consent || !packetTitle || !packetPath) {
@@ -53,6 +55,7 @@ export async function POST(request: Request) {
     ["Matter interest", matterInterest || "Not provided"],
     ["Packet", packetTitle],
     ["Packet path", packetPath],
+    ...attribution.map(([label, value]) => [label, value]),
   ];
 
   const resend = await fetch("https://api.resend.com/emails", {
